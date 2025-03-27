@@ -14,5 +14,5 @@ I also discuss how statistical factors are generated using Principal Component A
 Lastly, I set out how VaR and Expected Shortfall can be calculated with a Risk Factor Model using the Parametric Method.
 
 ![ff_fac]
-(https://github.com/tonytsoi/var_factor/blob/main/ff_fac.webp?raw=true)
+(https://github.com/tonytsoi/var_factor/blob/main/ff_fac.png?raw=true)
 
