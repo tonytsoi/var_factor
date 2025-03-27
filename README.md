@@ -12,3 +12,7 @@ I then discuss how fundamental factors are constructed in the Fama-French Factor
 I also discuss how statistical factors are generated using Principal Component Analysis (“PCA”), and illustrate with the US Treasury yield curve data as an example on how the level, slope and curve factors can be identified. 
 
 Lastly, I set out how VaR and Expected Shortfall can be calculated with a Risk Factor Model using the Parametric Method.
+
+![ff_fac]
+(https://github.com/tonytsoi/var_fac/blob/main/ff_fac.webp?raw=true)
+
