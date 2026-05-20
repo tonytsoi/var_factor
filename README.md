@@ -91,9 +91,9 @@ $$\sigma_p = \sqrt{\mathbf{w}_f^\top \Sigma \, \mathbf{w}_f}$$
 
 4. Apply the normal distribution to obtain VaR and Expected Shortfall at the 95% confidence level:
 
-$$\text{VaR}_{95\%} = \mu_p + z_{0.05} \cdot \sigma_p$$
+$$\text{VaR}_{0.95} = \mu_p + z_{0.05} \cdot \sigma_p$$
 
-$$\text{ES}_{95\%} = \mu_p - \frac{\phi(z_{0.05})}{0.05} \cdot \sigma_p$$
+$$\text{ES}_{0.95} = \mu_p - \frac{\phi(z_{0.05})}{0.05} \cdot \sigma_p$$
 
 **Results:**
 
